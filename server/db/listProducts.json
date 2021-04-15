@@ -1,0 +1,14 @@
+[
+    { "id": 1, "title": "Notebook MSI", "price": 20000, "imgSrc": "img/1.jpg","description":"14\"Ультрабук MSI MODERN 14 B10MW-294XRU черный [1920x1080, IPS, Intel Core i3 10110U, 2 х 2.1 ГГц, RAM 8 ГБ, SSD 256 ГБ, Intel UHD Graphics , Wi-Fi, DOS]"},
+    { "id": 2, "title": "Mouse", "price": 1500,"imgSrc": "img/Mouse.jpg","description":"Компактная мышь беспроводная Logitech M325 Precision серебристый [1000 dpi, светодиодный, USB, кнопки - 3]"},
+    { "id": 3, "title": "Keyboard", "price": 5000, "imgSrc": "img/3.jpg","description":"Клавиатура Defender Next HB-440 [проводная, мембранная, клавиш - 104, USB, черная]"},
+    { "id": 4, "title": "Gamepad", "price": 4200,"imgSrc": "img/Gamepad.jpg","description":"Геймпад RITMIX GP-001 черный [для PC, проводной, USB]"},
+    { "id": 5, "title": "Notebook Asus", "price": 25000, "imgSrc": "img/1.jpg","description":"11.6\" Ноутбук ASUS Laptop E210MA-GJ001T синий [1366x768, TN+film, Intel Celeron N4020, 2 х 1.1 ГГц, RAM 4 ГБ, eMMC 64 ГБ, Intel UHD 600 , Wi-Fi, Windows 10 Home]"},
+    { "id": 6, "title": "Mouse", "price": 500,"imgSrc": "img/Mouse.jpg","description":"Мышь беспроводная Aceline WM-8001 красный [1600 dpi, светодиодный, USB, кнопки - 6]"},
+    { "id": 7, "title": "Keyboard", "price": 9000, "imgSrc": "img/3.jpg","description":"Клавиатура Aceline K-503BU [проводная, мембранная, клавиш - 104, USB, черная]"},
+    { "id": 8, "title": "Gamepad", "price": 4500,"imgSrc": "img/Gamepad.jpg","description":"Геймпад SVEN GC-150 черный [для PC, проводной, USB]"},
+    { "id": 9, "title": "Notebook IBM", "price": 80000, "imgSrc": "img/1.jpg","description":"14\" Ноутбук Lenovo IdeaPad Slim 1-14AST-05 голубой [1366x768, TN+film, AMD A4 9120e, 2 х 1.5 ГГц, RAM 4 ГБ, eMMC 64 ГБ, Radeon R3 , Wi-Fi, Windows 10 Home]"},
+    { "id": 10, "title": "Mouse MS", "price": 3500,"imgSrc": "img/Mouse.jpg","description":"Мышь проводная Trust GXT188 черный [15000 dpi, светодиодный, USB, кнопки - 8]"},
+    { "id": 11, "title": "Keyboard", "price": 2000, "imgSrc": "img/3.jpg","description":"Клавиатура Oklick 120M [проводная, мембранная, клавиш - 104, USB, черная]"},
+    { "id": 12, "title": "Gamepad", "price": 4700,"imgSrc": "img/Gamepad.jpg","description":"Геймпад Dialog GP-A11 Action черный [для PC, проводной, USB, виброотдача]"}
+]
